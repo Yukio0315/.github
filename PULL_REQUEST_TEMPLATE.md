@@ -1,4 +1,4 @@
-<!-- 各節に何を書くかは https://github.com/Yukio0315/common-template/blob/main/.claude/rules/pr.md が持つ -->
+<!-- 各節に何を書くかは https://github.com/Yukio0315/common-template/blob/main/docs/pr.md が持つ -->
 
 ## Summary
 
